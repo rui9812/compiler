@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "语法分析器", "语法分析器.vcxproj", "{9C3C0BE0-65B1-43AA-A7CD-72E9C19F872B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3C0BE0-65B1-43AA-A7CD-72E9C19F872B}.Debug|x64.ActiveCfg = Debug|x64
+		{9C3C0BE0-65B1-43AA-A7CD-72E9C19F872B}.Debug|x64.Build.0 = Debug|x64
+		{9C3C0BE0-65B1-43AA-A7CD-72E9C19F872B}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C3C0BE0-65B1-43AA-A7CD-72E9C19F872B}.Debug|x86.Build.0 = Debug|Win32
+		{9C3C0BE0-65B1-43AA-A7CD-72E9C19F872B}.Release|x64.ActiveCfg = Release|x64
+		{9C3C0BE0-65B1-43AA-A7CD-72E9C19F872B}.Release|x64.Build.0 = Release|x64
+		{9C3C0BE0-65B1-43AA-A7CD-72E9C19F872B}.Release|x86.ActiveCfg = Release|Win32
+		{9C3C0BE0-65B1-43AA-A7CD-72E9C19F872B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7FD8099-7A38-475E-83DE-0DAD2266D376}
+	EndGlobalSection
+EndGlobal

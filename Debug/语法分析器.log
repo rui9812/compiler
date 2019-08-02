@@ -1,0 +1,13 @@
+﻿  中间代码优化.cpp
+  中间代码翻译器.cpp
+d:\编译器\--master\中间代码翻译器.cpp(90): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+d:\编译器\--master\中间代码翻译器.cpp(124): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+d:\编译器\--master\中间代码翻译器.cpp(136): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+  目标代码生成.cpp
+  符号表.cpp
+  词法分析.cpp
+d:\编译器\--master\词法分析.cpp(19): warning C4091: “static ”: 没有声明变量时忽略“twoele”的左侧
+  语法分析(LL1).cpp
+  调试.cpp
+  正在生成代码...
+  语法分析器.vcxproj -> D:\编译器\--master\Debug\语法分析器.exe
